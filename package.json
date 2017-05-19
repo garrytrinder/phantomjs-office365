@@ -1,0 +1,17 @@
+{
+  "name": "phantomjs-office365",
+  "version": "1.0.0",
+  "description": "Converts a SharePoint Online page to PDF",
+  "main": "index.js",
+  "scripts": {},
+  "author": "@garrytrinder",
+  "license": "ISC",
+  "dependencies": {
+    "q": "^1.5.0"
+  },
+  "devDependencies": {
+    "@types/node": "^7.0.18",
+    "@types/phantomjs": "^1.9.29",
+    "@types/q": "^1.0.0"
+  }
+}
