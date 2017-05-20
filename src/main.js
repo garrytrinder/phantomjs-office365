@@ -1,4 +1,4 @@
-var q = require('q');
+var promise = require('es6-promise').polyfill();
 var webpage = require('webpage');
 var system = require('system');
 var core = require('./core');
