@@ -1,5 +1,7 @@
 # IMPORTANT 
-Phantom JS is now longer being actively supported, whilst Google have since created a headless version of Chrome for Windows and Linux which is more enduring technology. Check out the [Headless Chrome Office 365](https://github.com/johnnliu/headless-chrome-o365) solution from John Liu (MVP) whos idea started me down this path with Phantom JS.
+Phantom JS is now longer being actively supported, whilst Google have since created a headless version of Chrome for Windows and Linux which is more enduring technology. 
+
+Check out the [Headless Chrome Office 365](https://github.com/johnnliu/headless-chrome-o365) solution from John Liu (MVP) whos intial idea started me down this whole path with Phantom JS.
 
 # Phantom JS Office 365
 
